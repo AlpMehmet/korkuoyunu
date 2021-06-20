@@ -1,2 +1,3 @@
 # korkuoyunu
-Horror game with unity using c#.
+
+FPS horror game with unity using c#.
